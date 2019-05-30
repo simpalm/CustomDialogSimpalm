@@ -119,5 +119,7 @@ CustomDialogSimpalm is a framework  to get a attractive alert by using very simp
 
           view.alertBackgroundColor = [UIColor grayColor];
         
-Thanks …
+Thanks.
+
+For more updates keep on checking www.simpalm.com 
 
