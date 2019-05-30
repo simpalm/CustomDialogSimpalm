@@ -1,11 +1,11 @@
-# CustomDialog
-SimpalmDialog
+# CustomDialogSimpalm
+www.simpalm.com
 
 CustomDialogSimpalm is a framework  to get a attractive alert by using very simple code. Its make life easier for designing the custom alerts , its have its own animation to attract the viewer towards the alerts which are required to be shown .
 
-USE:   
+# HOW TO USE
 
- Swift
+# Swift: 
   
 1. Just drag and drop the framework into your application.
    
@@ -62,8 +62,7 @@ USE:
 
 
 
-
-Objective C
+# Objective C
 
 1. Just drag and drop the framework into your application.
    
