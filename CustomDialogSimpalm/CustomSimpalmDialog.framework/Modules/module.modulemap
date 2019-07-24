@@ -1,0 +1,11 @@
+framework module CustomSimpalmDialog {
+  umbrella header "CustomSimpalmDialog.h"
+
+  export *
+  module * { export * }
+}
+
+module CustomSimpalmDialog.Swift {
+    header "CustomSimpalmDialog-Swift.h"
+    requires objc
+}

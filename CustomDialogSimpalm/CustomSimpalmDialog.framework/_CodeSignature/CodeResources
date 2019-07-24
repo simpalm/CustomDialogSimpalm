@@ -4,83 +4,107 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CustomDialogSimpalm-Swift.h</key>
+		<key>Headers/CustomSimpalmDialog-Swift.h</key>
 		<data>
-		uZTpRd3P04z5jdvloSCfyKyfdYk=
+		OT4LNQ5RS3y4q4I1AlHSrqcucW0=
 		</data>
-		<key>Headers/CustomDialogSimpalm.h</key>
+		<key>Headers/CustomSimpalmDialog.h</key>
 		<data>
-		9gfYJQ9vanWJLWwCKZGadr0RdQ0=
+		uyVRei0l4lSaA/iIQLqfo1aH1Go=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LZ/JPEDOwh7eKHCbYq1d8VSIeBE=
+		H2se9Fl9cYSkv1cHIkynES2MNzs=
 		</data>
-		<key>Modules/CustomDialogSimpalm.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CustomSimpalmDialog.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OSz899a41lKA63YffJ+on8SWcs8=
+		KCyURCuH1usuh9LNxwPUNKSLJYk=
 		</data>
-		<key>Modules/CustomDialogSimpalm.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/CustomSimpalmDialog.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		CJO9mEL0CyrfxSxbbmHQiHdpia8=
+		+QVEPhwlTsi1SloHEI60e3NWEuk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		U2UAF+Wn0iqQXDLGIhonvoaQLHM=
+		seTCh0sjlY8RMVXE9pYg+qjKSYQ=
 		</data>
 		<key>SimpalmDialog.nib</key>
 		<data>
-		taMYFttS5fod1nscCabctxJa/6w=
+		Ta6Al3RQWi4PS6Yt6zKlyPW283Y=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CustomDialogSimpalm-Swift.h</key>
+		<key>Headers/CustomSimpalmDialog-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			OT4LNQ5RS3y4q4I1AlHSrqcucW0=
+			</data>
 			<key>hash2</key>
 			<data>
-			ng2OjDbUhAI5UoqpvzPL8Vx1kycentwKuDV7XjjSOJo=
+			4/6YYqtHzY92EkO8Z/aQHQfNF9mdQ0wSOHX6JJ6ZPIo=
 			</data>
 		</dict>
-		<key>Headers/CustomDialogSimpalm.h</key>
+		<key>Headers/CustomSimpalmDialog.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uyVRei0l4lSaA/iIQLqfo1aH1Go=
+			</data>
 			<key>hash2</key>
 			<data>
-			TTIJ/gbghcURWr+O76k+o4+iBDsitKFKfKhFuEK+plQ=
+			OQ97Se3YButV4mvvI5/8bFDXZO3qhPQdaJxtJNEJbgk=
 			</data>
 		</dict>
-		<key>Modules/CustomDialogSimpalm.swiftmodule/x86_64.swiftdoc</key>
+		<key>Modules/CustomSimpalmDialog.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KCyURCuH1usuh9LNxwPUNKSLJYk=
+			</data>
 			<key>hash2</key>
 			<data>
-			W7l7e6LoiInHIoRKqTAu53IGPCA+Jd8KEAAUHuxfPwo=
+			pKGP2Qclg/Uul8x959UKbVm+Qjrz1BLjOclXZWvsk5A=
 			</data>
 		</dict>
-		<key>Modules/CustomDialogSimpalm.swiftmodule/x86_64.swiftmodule</key>
+		<key>Modules/CustomSimpalmDialog.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			+QVEPhwlTsi1SloHEI60e3NWEuk=
+			</data>
 			<key>hash2</key>
 			<data>
-			o2Us2fxOfYR5dM0xI73wcVKjuJY2OBnhv5JWh3T2K6k=
+			oMLmjxiFH9aRb/NkkcrVfHJYtQ2iv6taRr63cFFbgzE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			seTCh0sjlY8RMVXE9pYg+qjKSYQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			60XFF227W/55kJEsydpmVFFD6VsGjIXh7bnjmgp4p+A=
+			Kr46bfVLyN7ZpVxyxwQ3HKF2YEa30WvyvEHgqNFKtQI=
 			</data>
 		</dict>
 		<key>SimpalmDialog.nib</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Ta6Al3RQWi4PS6Yt6zKlyPW283Y=
+			</data>
 			<key>hash2</key>
 			<data>
-			imqPrDrzn+siEWTshpJfyqxGr7Q7ZPsIG3y+fBfbr8g=
+			4G5H9kClFHbI/wDOls1dbIccPGoNeZydvVxdAbf/LZI=
 			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -111,24 +135,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -164,13 +176,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
